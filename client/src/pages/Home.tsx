@@ -133,7 +133,7 @@ export default function Home() {
           {/* Banner Image */}
           <div className="flex justify-center animate-fade-in">
             <img
-              src="/manus-storage/image-removebg-preview(9)_22d409b4.png"
+              src="/image-removebg-preview.png"
               alt="Red Imposter"
               className={`w-full max-w-2xl object-contain rounded-lg neon-border ${modeGlowColor} animate-float`}
             />
