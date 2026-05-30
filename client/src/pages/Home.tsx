@@ -83,7 +83,7 @@ export default function Home() {
     : "▸ ALERT: CREWMATE ONLINE\n▸ STAY VIGILANT. REPORT SUSPICIOUS ACTIVITY.\n▸ TEAMWORK MAKES THE DREAM WORK.";
 
   return (
-    <div className="min-h-screen bg-background text-foreground overflow-hidden">
+    <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
       {/* Animated background with space theme */}
       <div
         className="fixed inset-0 -z-10"
