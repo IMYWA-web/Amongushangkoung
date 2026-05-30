@@ -98,8 +98,8 @@ export default function Home() {
       {/* Overlay for better text contrast */}
       <div className="fixed inset-0 -z-10 bg-black/40" />
 
-      {/* Sticky Mode Switcher */}
-      <div className="sticky top-0 z-50 bg-background/80 backdrop-blur border-b border-cyan-500/20 py-4">
+      {/* Fixed Mode Switcher */}
+      <div className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur border-b border-cyan-500/20 py-4">
         <div className="max-w-6xl mx-auto px-4 flex items-center justify-center gap-4">
           <span className="text-sm text-gray-400 cyber-text">▸ MODE:</span>
           <div className="flex gap-2 bg-card/50 rounded-lg p-1 border border-cyan-500/30">
