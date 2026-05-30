@@ -249,7 +249,7 @@ export default function Home() {
 
           <div className="flex justify-center">
             <img
-              src="/manus-storage/pasted_file_D3dWwa_image_b55b0427.webp"
+              src="/crewmates.jpg"
               alt="Crewmates"
               className="w-full max-w-4xl object-contain rounded-lg neon-border"
             />
